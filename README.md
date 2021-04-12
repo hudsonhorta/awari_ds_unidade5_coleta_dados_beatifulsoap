@@ -1,4 +1,7 @@
-# coleta_dados_beatifulsoap
+#Tarefa: Calculadora de Aluguel - Manipulação de Dados
+
+Unidade 06 - Manipulação De Dados
+
 Coleta Dados com BeatifulSoap
 
 Exercício:
